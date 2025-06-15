@@ -19,4 +19,4 @@ def result():
     return render_template("result.html", cards=selected_cards)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=os.environ.get("FLASK_DEBUG") == "1")
