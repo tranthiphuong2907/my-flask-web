@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Kết quả Rút Bài Tarot </title>
+	<a href="/">🔁 Rút lại</a>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 30px;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 15px;
+            vertical-align: top;
+            text-align: left;
+        }
+        img {
+            max-width: 450px;
+            height: 550px;
+        }
+        .card-name {
+            margin-top: 8px;
+            font-weight: bold;
+        }
+        iframe {
+            width: 450px;
+            height: 550px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Kết quả Rút Bài Tarot (Quá khứ - Hiện tại - Tương lai)</h1>
+
+    <table>
+        <tr>
+            <th>Lá bài</th>
+            <th>Ý nghĩa (tóm tắt)</th>
+            <th>Video (có âm thanh)</th>
+        </tr>
+        {% for card in cards %}
+        <tr>
+            <td>
+                <img src="{{ url_for('static', filename='images/' + card.Image) }}" alt="{{ card.Title }}">
+                <div class="card-name">{{ card.Title }}</div>
+            </td>
+			
+            <td>
+                {{ card.Description }}
+            </td>
+            <td>
+                <iframe 
+                    src="https://www.youtube.com/embed/{{ card.youtube_id }}"
+					frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+                </iframe>
+            </td>
+        </tr>
+        {% endfor %}
+    </table>
+
+</body>
+</html>

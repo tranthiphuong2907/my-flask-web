@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Tarot Công Việc</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            background: #fdf6e3;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #6b4e16;
+        }
+
+        .slider {
+            width: 90%;
+            margin: 30px auto;
+            overflow: hidden;
+            position: relative;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+        }
+
+        .slides {
+            display: flex;
+            width: max-content;
+            animation: slide 60s linear infinite;
+        }
+
+        .slides img {
+            width: 150px;
+            margin: 0 8px;
+            flex-shrink: 0;
+            border-radius: 8px;
+            transition: transform 0.3s;
+        }
+
+        .slides img:hover {
+            transform: scale(1.1);
+        }
+
+        @keyframes slide {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(-50%); }
+        }
+
+        button {
+            background-color: #8b5c2c;
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #a9743b;
+        }
+		
+    </style>
+</head>
+<body>
+    <h1>✨ Trải bài Tarot – Công việc ✨</h1>
+
+    <div class="slider">
+        <div class="slides">
+            <img src="{{ url_for('static', filename='images/c01.jpg') }}">
+            <img src="{{ url_for('static', filename='images/c02.jpg') }}">
+            <img src="{{ url_for('static', filename='images/c03.jpg') }}">
+            <img src="{{ url_for('static', filename='images/c04.jpg') }}">
+            <img src="{{ url_for('static', filename='images/c05.jpg') }}">
+            <img src="{{ url_for('static', filename='images/c06.jpg') }}">
+            <img src="{{ url_for('static', filename='images/c07.jpg') }}">
+			<img src="{{ url_for('static', filename='images/c08.jpg') }}">
+			<img src="{{ url_for('static', filename='images/c09.jpg') }}">
+			<img src="{{ url_for('static', filename='images/c10.jpg') }}">
+			<img src="{{ url_for('static', filename='images/c01.jpg') }}">
+            <img src="{{ url_for('static', filename='images/c02.jpg') }}">
+            <img src="{{ url_for('static', filename='images/c03.jpg') }}">
+            <img src="{{ url_for('static', filename='images/c04.jpg') }}">
+            <img src="{{ url_for('static', filename='images/c05.jpg') }}">
+            <img src="{{ url_for('static', filename='images/c06.jpg') }}">
+            <img src="{{ url_for('static', filename='images/c07.jpg') }}">
+			<img src="{{ url_for('static', filename='images/c08.jpg') }}">
+			<img src="{{ url_for('static', filename='images/c09.jpg') }}">
+			<img src="{{ url_for('static', filename='images/c10.jpg') }}">
+		</div>
+    </div>
+
+    <form action="/result" method="post">
+        <button type="submit">🔮 Nhắm mắt thành tâm chọn 3 lá bài ngẫu nhiên</button>
+    </form>
+	<h5>✨Bạn muốn xem online/offline về các vấn đề khác thì liên hệ mình nhé (mình coi theo sách) ✨</h5>
+	<h6>✨Ngoài ra, mình còn dịch vụ lắng nghe - không phán xét - không đưa lời khuyên✨</h6>
+	
+</body>
+</html>

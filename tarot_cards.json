@@ -1,470 +1,470 @@
 [
-    {
-        "Title": "The Fool",
-        "Description": "Khởi đầu mới, dũng cảm, sẵn sàng mạo hiểm.",
-        "Image": "m00.jpg",
-        "youtube_id": "3BSximUr2fs"
-    },
-    {
-        "Title": "The Magician",
-        "Description": "Kỹ năng, sáng tạo, khả năng biến ý tưởng thành hiện thực.",
-        "Image": "m01.jpg",
-        "youtube_id": "Aiq9QtYBCto"
-    },
-    {
-        "Title": "The High Priestess",
-        "Description": "Trực giác mạnh mẽ, thấu hiểu, tìm kiếm sự thật.",
-        "Image": "m02.jpg",
-        "youtube_id": "84JUG42MYU8"
-    },
-    {
-        "Title": "The Empress",
-        "Description": "Sự sáng tạo, phát triển, sự nuôi dưỡng, chăm sóc.",
-        "Image": "m03.jpg",
-        "youtube_id": "zbTZ9vr7iMg"
-    },
-    {
-        "Title": "The Emperor",
-        "Description": "Quyền lực, lãnh đạo, kiểm soát, trách nhiệm.",
-        "Image": "m04.jpg",
-        "youtube_id": "8Xc29ZF8Fpg"
-    },
-    {
-        "Title": "The Hierophant",
-        "Description": "Truyền thống, hướng dẫn, học hỏi, sự chỉ dẫn.",
-        "Image": "m05.jpg",
-        "youtube_id": "55Ijh3wHpR8"
-    },
-    {
-        "Title": "The Lovers",
-        "Description": "Quyết định quan trọng, sự cân nhắc, hợp tác trong công việc.",
-        "Image": "m06.jpg",
-        "youtube_id": "1my-0M5n9Ic"
-    },
-    {
-        "Title": "The Chariot",
-        "Description": "Quyết tâm, chiến thắng, tự tin, kiểm soát hành trình.",
-        "Image": "m07.jpg",
-        "youtube_id": "dC7m2XXj-R0"
-    },
-    {
-        "Title": "Strength",
-        "Description": "Sức mạnh nội tâm, kiên trì, vượt qua thử thách.",
-        "Image": "m08.jpg",
-        "youtube_id": "IXBUWYhe8Zc"
-    },
-    {
-        "Title": "The Hermit",
-        "Description": "Tìm kiếm sự thật, độc lập, suy ngẫm.",
-        "Image": "m09.jpg",
-        "youtube_id": "Ahdt0cDJmyk"
-    },
-    {
-        "Title": "Wheel of Fortune",
-        "Description": "Thay đổi, cơ hội mới, sự thịnh vượng.",
-        "Image": "m10.jpg",
-        "youtube_id": "3-8yQDH1Ns4"
-    },
-    {
-        "Title": "Justice",
-        "Description": "Công lý, sự công bằng, đánh giá công bằng.",
-        "Image": "m11.jpg",
-        "youtube_id": "fpBPyLeuVpo"
-    },
-    {
-        "Title": "The Hanged Man",
-        "Description": "Đánh giá lại, nhìn nhận từ góc nhìn mới, sự hy sinh.",
-        "Image": "m12.jpg",
-        "youtube_id": "uXnV2wU-DPE"
-    },
-    {
-        "Title": "Death",
-        "Description": "Sự kết thúc, chuyển biến, sự thay đổi lớn.",
-        "Image": "m13.jpg",
-        "youtube_id": "14FMnXBkECg"
-    },
-    {
-        "Title": "Temperance",
-        "Description": "Cân bằng, hài hòa, kiên nhẫn, sự hợp tác.",
-        "Image": "m14.jpg",
-        "youtube_id": "O_-0QEPkzA4"
-    },
-    {
-        "Title": "The Devil",
-        "Description": "Sự ràng buộc, quyến rũ, thách thức, tự do bị hạn chế.",
-        "Image": "m15.jpg",
-        "youtube_id": "LrdnxNtLofI"
-    },
-    {
-        "Title": "The Tower",
-        "Description": "Sự sụp đổ, thay đổi đột ngột, khởi đầu mới sau biến cố.",
-        "Image": "m16.jpg",
-        "youtube_id": "Sgpl8sORDAQ"
-    },
-    {
-        "Title": "The Star",
-        "Description": "Hi vọng, cảm hứng, sự chữa lành, mục tiêu rõ ràng.",
-        "Image": "m17.jpg",
-        "youtube_id": "xgT8Vwg3IMM"
-    },
-    {
-        "Title": "The Moon",
-        "Description": "Mơ hồ, sự nghi ngờ, cảm xúc không rõ ràng, trực giác.",
-        "Image": "m18.jpg",
-        "youtube_id": "6IoqVUCbYgo"
-    },
-    {
-        "Title": "The Sun",
-        "Description": "Thành công, sự rõ ràng, hạnh phúc, năng lượng tích cực.",
-        "Image": "m19.jpg",
-        "youtube_id": "1Z3QjT-nw7M"
-    },
-    {
-        "Title": "Judgement",
-        "Description": "Đánh giá lại, sự tỉnh thức, quyết định quan trọng.",
-        "Image": "m20.jpg",
-        "youtube_id": "3gQwtmJINaY"
-    },
-    {
-        "Title": "The World",
-        "Description": "Hoàn thành, sự viên mãn, thành tựu, kết quả tốt đẹp.",
-        "Image": "m21.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Ace of Wands",
-        "Description": "Khởi đầu sáng tạo, ý tưởng mới, năng lượng đam mê.",
-        "Image": "w01.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Two of Wands",
-        "Description": "Quyết định, kế hoạch dài hạn, tầm nhìn.",
-        "Image": "w02.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Three of Wands",
-        "Description": "Tiến triển, mở rộng, chờ đợi cơ hội mới.",
-        "Image": "w03.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Four of Wands",
-        "Description": "Sự ổn định, thành tựu, kỷ niệm, hợp tác thành công.",
-        "Image": "w04.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Five of Wands",
-        "Description": "Cạnh tranh, xung đột, thử thách.",
-        "Image": "w05.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Six of Wands",
-        "Description": "Chiến thắng, thành công, sự công nhận.",
-        "Image": "w06.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Seven of Wands",
-        "Description": "Đề kháng, bảo vệ, đối phó với thử thách.",
-        "Image": "w07.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Eight of Wands",
-        "Description": "Tiến nhanh, hành động, sự thay đổi nhanh chóng.",
-        "Image": "w08.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Nine of Wands",
-        "Description": "Kiên cường, phòng thủ, bảo vệ kết quả đạt được.",
-        "Image": "w09.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Ten of Wands",
-        "Description": "Gánh nặng, trách nhiệm, mệt mỏi, sự chịu đựng.",
-        "Image": "w10.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Page of Wands",
-        "Description": "Sáng tạo, khởi đầu mới, nhiệt huyết, khám phá.",
-        "Image": "w11.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Knight of Wands",
-        "Description": "Động lực mạnh mẽ, phiêu lưu, hành động quyết liệt.",
-        "Image": "w12.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Queen of Wands",
-        "Description": "Tự tin, sức mạnh nội tại, lãnh đạo, sáng tạo.",
-        "Image": "w13.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "King of Wands",
-        "Description": "Lãnh đạo, tầm nhìn, hành động quyết đoán, sự sáng tạo.",
-        "Image": "w14.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Ace of Cups",
-        "Description": "Cảm xúc mới mẻ, khởi đầu tình cảm, sự sáng tạo.",
-        "Image": "c01.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Two of Cups",
-        "Description": "Hợp tác, mối quan hệ đối tác, sự đồng lòng.",
-        "Image": "c02.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Three of Cups",
-        "Description": "Tình bạn, niềm vui, sự chia sẻ, lễ hội.",
-        "Image": "c03.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Four of Cups",
-        "Description": "Từ chối cơ hội, sự không hài lòng, cần sự thay đổi.",
-        "Image": "c04.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Five of Cups",
-        "Description": "Mất mát, tiếc nuối, nhìn vào những điều đã mất.",
-        "Image": "c05.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Six of Cups",
-        "Description": "Kỷ niệm, quá khứ, sự hài hòa, sự ấm áp.",
-        "Image": "c06.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Seven of Cups",
-        "Description": "Sự phân vân, lựa chọn, ảo tưởng, quá nhiều lựa chọn.",
-        "Image": "c07.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Eight of Cups",
-        "Description": "Rời bỏ, tìm kiếm ý nghĩa mới, sự từ bỏ.",
-        "Image": "c08.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Nine of Cups",
-        "Description": "Hạnh phúc, sự hài lòng, đạt được mong muốn.",
-        "Image": "c09.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Ten of Cups",
-        "Description": "Hạnh phúc lâu dài, gia đình, sự viên mãn trong tình cảm.",
-        "Image": "c10.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Page of Cups",
-        "Description": "Sự sáng tạo, cảm xúc, bắt đầu mới trong mối quan hệ.",
-        "Image": "c11.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Knight of Cups",
-        "Description": "Lãng mạn, hành động theo cảm xúc, sự phiêu lưu tình cảm.",
-        "Image": "c12.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Queen of Cups",
-        "Description": "Cảm thông, trực giác, sự chăm sóc, sự nuôi dưỡng.",
-        "Image": "c13.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "King of Cups",
-        "Description": "Kiểm soát cảm xúc, lãnh đạo bằng tình cảm, sự thấu hiểu.",
-        "Image": "c14.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Ace of Swords",
-        "Description": "Ý tưởng mới, sự rõ ràng, quyết định quan trọng.",
-        "Image": "s01.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Two of Swords",
-        "Description": "Quyết định khó khăn, mâu thuẫn, cân nhắc giữa hai lựa chọn.",
-        "Image": "s02.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Three of Swords",
-        "Description": "Đau khổ, sự chia ly, thất vọng, sự mất mát.",
-        "Image": "s03.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Four of Swords",
-        "Description": "Nghỉ ngơi, sự hồi phục, tĩnh lặng, sự thư giãn.",
-        "Image": "s04.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Five of Swords",
-        "Description": "Thất bại, xung đột, thắng lợi qua sự tranh cãi.",
-        "Image": "s05.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Six of Swords",
-        "Description": "Di chuyển, sự thay đổi, rời bỏ khó khăn, tìm kiếm sự bình an.",
-        "Image": "s06.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Seven of Swords",
-        "Description": "Lừa dối, sự không trung thực, hành động lén lút.",
-        "Image": "s07.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Eight of Swords",
-        "Description": "Giam cầm, cảm giác bị mắc kẹt, thiếu tự do.",
-        "Image": "s08.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Nine of Swords",
-        "Description": "Lo âu, căng thẳng, ám ảnh, đêm dài không ngủ.",
-        "Image": "s09.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Ten of Swords",
-        "Description": "Kết thúc đau đớn, sự phản bội, đau khổ tột cùng.",
-        "Image": "s10.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Page of Swords",
-        "Description": "Quan sát, khám phá, thông tin mới, sự tò mò.",
-        "Image": "s11.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Knight of Swords",
-        "Description": "Quyết đoán, hành động nhanh chóng, xung đột, sự không kiên nhẫn.",
-        "Image": "s12.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Queen of Swords",
-        "Description": "Lý trí, sáng suốt, độc lập, tách biệt cảm xúc khỏi quyết định.",
-        "Image": "s13.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "King of Swords",
-        "Description": "Lãnh đạo thông minh, quyết đoán, sử dụng lý trí, công lý.",
-        "Image": "s14.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Ace of Pentacles",
-        "Description": "Cơ hội tài chính, khởi đầu về vật chất, sự thịnh vượng.",
-        "Image": "p01.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Two of Pentacles",
-        "Description": "Cân bằng, quản lý công việc, thích ứng với thay đổi.",
-        "Image": "p02.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Three of Pentacles",
-        "Description": "Hợp tác, làm việc nhóm, sự phát triển nghề nghiệp.",
-        "Image": "p03.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Four of Pentacles",
-        "Description": "Bảo vệ tài sản, kiểm soát, sự tham lam, giữ gìn.",
-        "Image": "p04.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Five of Pentacles",
-        "Description": "Thiếu thốn, khó khăn tài chính, cô đơn, thiếu sự hỗ trợ.",
-        "Image": "p05.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Six of Pentacles",
-        "Description": "Hỗ trợ tài chính, sự cho đi, sự công bằng, giúp đỡ.",
-        "Image": "p06.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Seven of Pentacles",
-        "Description": "Đánh giá, kiên nhẫn, đầu tư dài hạn, thu hoạch sau sự chờ đợi.",
-        "Image": "p07.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Eight of Pentacles",
-        "Description": "Làm việc chăm chỉ, học hỏi, rèn luyện kỹ năng.",
-        "Image": "p08.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Nine of Pentacles",
-        "Description": "Tự lập, thành công cá nhân, sự thịnh vượng, sự độc lập.",
-        "Image": "p09.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Ten of Pentacles",
-        "Description": "Thành tựu lâu dài, gia đình, di sản, sự ổn định tài chính.",
-        "Image": "p10.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Page of Pentacles",
-        "Description": "Cơ hội học hỏi, sự bắt đầu công việc, tài chính mới mẻ.",
-        "Image": "p11.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Knight of Pentacles",
-        "Description": "Chăm chỉ, thực tế, ổn định, kiên nhẫn trong công việc.",
-        "Image": "p12.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "Queen of Pentacles",
-        "Description": "Quản lý tài chính, chăm sóc gia đình, sự ổn định vật chất.",
-        "Image": "p13.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    },
-    {
-        "Title": "King of Pentacles",
-        "Description": "Sự thành đạt, kiểm soát tài chính, lãnh đạo về vật chất.",
-        "Image": "p14.jpg",
-        "youtube_id": "cajzfaSIoOc"
-    }
+  {
+    "Title": "The Fool",
+    "Description": "Khởi đầu mới, dũng cảm, sẵn sàng mạo hiểm.",
+    "Image": "m00.jpg",
+    "youtube_id": "3BSximUr2fs"
+  },
+  {
+    "Title": "The Magician",
+    "Description": "Kỹ năng, sáng tạo, khả năng biến ý tưởng thành hiện thực.",
+    "Image": "m01.jpg",
+    "youtube_id": "Aiq9QtYBCto"
+  },
+  {
+    "Title": "The High Priestess",
+    "Description": "Trực giác mạnh mẽ, thấu hiểu, tìm kiếm sự thật.",
+    "Image": "m02.jpg",
+    "youtube_id": "84JUG42MYU8"
+  },
+  {
+    "Title": "The Empress",
+    "Description": "Sự sáng tạo, phát triển, sự nuôi dưỡng, chăm sóc.",
+    "Image": "m03.jpg",
+    "youtube_id": "zbTZ9vr7iMg"
+  },
+  {
+    "Title": "The Emperor",
+    "Description": "Quyền lực, lãnh đạo, kiểm soát, trách nhiệm.",
+    "Image": "m04.jpg",
+    "youtube_id": "8Xc29ZF8Fpg"
+  },
+  {
+    "Title": "The Hierophant",
+    "Description": "Truyền thống, hướng dẫn, học hỏi, sự chỉ dẫn.",
+    "Image": "m05.jpg",
+    "youtube_id": "55Ijh3wHpR8"
+  },
+  {
+    "Title": "The Lovers",
+    "Description": "Quyết định quan trọng, sự cân nhắc, hợp tác trong công việc.",
+    "Image": "m06.jpg",
+    "youtube_id": "1my-0M5n9Ic"
+  },
+  {
+    "Title": "The Chariot",
+    "Description": "Quyết tâm, chiến thắng, tự tin, kiểm soát hành trình.",
+    "Image": "m07.jpg",
+    "youtube_id": "dC7m2XXj-R0"
+  },
+  {
+    "Title": "Strength",
+    "Description": "Sức mạnh nội tâm, kiên trì, vượt qua thử thách.",
+    "Image": "m08.jpg",
+    "youtube_id": "IXBUWYhe8Zc"
+  },
+  {
+    "Title": "The Hermit",
+    "Description": "Tìm kiếm sự thật, độc lập, suy ngẫm.",
+    "Image": "m09.jpg",
+    "youtube_id": "Ahdt0cDJmyk"
+  },
+  {
+    "Title": "Wheel of Fortune",
+    "Description": "Thay đổi, cơ hội mới, sự thịnh vượng.",
+    "Image": "m10.jpg",
+    "youtube_id": "3-8yQDH1Ns4"
+  },
+  {
+    "Title": "Justice",
+    "Description": "Công lý, sự công bằng, đánh giá công bằng.",
+    "Image": "m11.jpg",
+    "youtube_id": "fpBPyLeuVpo"
+  },
+  {
+    "Title": "The Hanged Man",
+    "Description": "Đánh giá lại, nhìn nhận từ góc nhìn mới, sự hy sinh.",
+    "Image": "m12.jpg",
+    "youtube_id": "uXnV2wU-DPE"
+  },
+  {
+    "Title": "Death",
+    "Description": "Sự kết thúc, chuyển biến, sự thay đổi lớn.",
+    "Image": "m13.jpg",
+    "youtube_id": "14FMnXBkECg"
+  },
+  {
+    "Title": "Temperance",
+    "Description": "Cân bằng, hài hòa, kiên nhẫn, sự hợp tác.",
+    "Image": "m14.jpg",
+    "youtube_id": "O_-0QEPkzA4"
+  },
+  {
+    "Title": "The Devil",
+    "Description": "Sự ràng buộc, quyến rũ, thách thức, tự do bị hạn chế.",
+    "Image": "m15.jpg",
+    "youtube_id": "LrdnxNtLofI"
+  },
+  {
+    "Title": "The Tower",
+    "Description": "Sự sụp đổ, thay đổi đột ngột, khởi đầu mới sau biến cố.",
+    "Image": "m16.jpg",
+    "youtube_id": "Sgpl8sORDAQ"
+  },
+  {
+    "Title": "The Star",
+    "Description": "Hi vọng, cảm hứng, sự chữa lành, mục tiêu rõ ràng.",
+    "Image": "m17.jpg",
+    "youtube_id": "xgT8Vwg3IMM"
+  },
+  {
+    "Title": "The Moon",
+    "Description": "Mơ hồ, sự nghi ngờ, cảm xúc không rõ ràng, trực giác.",
+    "Image": "m18.jpg",
+    "youtube_id": "6IoqVUCbYgo"
+  },
+  {
+    "Title": "The Sun",
+    "Description": "Thành công, sự rõ ràng, hạnh phúc, năng lượng tích cực.",
+    "Image": "m19.jpg",
+    "youtube_id": "1Z3QjT-nw7M"
+  },
+  {
+    "Title": "Judgement",
+    "Description": "Đánh giá lại, sự tỉnh thức, quyết định quan trọng.",
+    "Image": "m20.jpg",
+    "youtube_id": "3gQwtmJINaY"
+  },
+  {
+    "Title": "The World",
+    "Description": "Hoàn thành, sự viên mãn, thành tựu, kết quả tốt đẹp.",
+    "Image": "m21.jpg",
+    "youtube_id": "cajzfaSIoOc"
+  },
+  {
+    "Title": "Ace of Wands",
+    "Description": "Khởi đầu sáng tạo, ý tưởng mới, năng lượng đam mê.",
+    "Image": "w01.jpg",
+    "youtube_id": "lqSdvuBPyw0"
+  },
+  {
+    "Title": "Two of Wands",
+    "Description": "Quyết định, kế hoạch dài hạn, tầm nhìn.",
+    "Image": "w02.jpg",
+    "youtube_id": "ZXydqM-wdbY"
+  },
+  {
+    "Title": "Three of Wands",
+    "Description": "Tiến triển, mở rộng, chờ đợi cơ hội mới.",
+    "Image": "w03.jpg",
+    "youtube_id": "1fxOLJyfLrM"
+  },
+  {
+    "Title": "Four of Wands",
+    "Description": "Sự ổn định, thành tựu, kỷ niệm, hợp tác thành công.",
+    "Image": "w04.jpg",
+    "youtube_id": "4IVhv6tP3N0"
+  },
+  {
+    "Title": "Five of Wands",
+    "Description": "Cạnh tranh, xung đột, thử thách.",
+    "Image": "w05.jpg",
+    "youtube_id": "DBwUPIvoSSE"
+  },
+  {
+    "Title": "Six of Wands",
+    "Description": "Chiến thắng, thành công, sự công nhận.",
+    "Image": "w06.jpg",
+    "youtube_id": "TDeV9R0PfSk"
+  },
+  {
+    "Title": "Seven of Wands",
+    "Description": "Đề kháng, bảo vệ, đối phó với thử thách.",
+    "Image": "w07.jpg",
+    "youtube_id": "aTKuBqf8Vs4"
+  },
+  {
+    "Title": "Eight of Wands",
+    "Description": "Tiến nhanh, hành động, sự thay đổi nhanh chóng.",
+    "Image": "w08.jpg",
+    "youtube_id": "EAmddGrpdTM"
+  },
+  {
+    "Title": "Nine of Wands",
+    "Description": "Kiên cường, phòng thủ, bảo vệ kết quả đạt được.",
+    "Image": "w09.jpg",
+    "youtube_id": "FFstWpDxmCs"
+  },
+  {
+    "Title": "Ten of Wands",
+    "Description": "Gánh nặng, trách nhiệm, mệt mỏi, sự chịu đựng.",
+    "Image": "w10.jpg",
+    "youtube_id": "ZaDvK8IgHqc"
+  },
+  {
+    "Title": "Page of Wands",
+    "Description": "Sáng tạo, khởi đầu mới, nhiệt huyết, khám phá.",
+    "Image": "w11.jpg",
+    "youtube_id": "y-zgkFa3AAQ"
+  },
+  {
+    "Title": "Knight of Wands",
+    "Description": "Động lực mạnh mẽ, phiêu lưu, hành động quyết liệt.",
+    "Image": "w12.jpg",
+    "youtube_id": "uX8MTjiUlvs"
+  },
+  {
+    "Title": "Queen of Wands",
+    "Description": "Tự tin, sức mạnh nội tại, lãnh đạo, sáng tạo.",
+    "Image": "w13.jpg",
+    "youtube_id": "mdfszrdGdLE"
+  },
+  {
+    "Title": "King of Wands",
+    "Description": "Lãnh đạo, tầm nhìn, hành động quyết đoán, sự sáng tạo.",
+    "Image": "w14.jpg",
+    "youtube_id": "i_e3__SUkyw"
+  },
+  {
+    "Title": "Ace of Cups",
+    "Description": "Cảm xúc mới mẻ, khởi đầu tình cảm, sự sáng tạo.",
+    "Image": "c01.jpg",
+    "youtube_id": "GNOjm8xRO-U"
+  },
+  {
+    "Title": "Two of Cups",
+    "Description": "Hợp tác, mối quan hệ đối tác, sự đồng lòng.",
+    "Image": "c02.jpg",
+    "youtube_id": "9UA7jkUNUOo"
+  },
+  {
+    "Title": "Three of Cups",
+    "Description": "Tình bạn, niềm vui, sự chia sẻ, lễ hội.",
+    "Image": "c03.jpg",
+    "youtube_id": "-ANTv-H5slk"
+  },
+  {
+    "Title": "Four of Cups",
+    "Description": "Từ chối cơ hội, sự không hài lòng, cần sự thay đổi.",
+    "Image": "c04.jpg",
+    "youtube_id": "L0JjYS--pE8"
+  },
+  {
+    "Title": "Five of Cups",
+    "Description": "Mất mát, tiếc nuối, nhìn vào những điều đã mất.",
+    "Image": "c05.jpg",
+    "youtube_id": "Hw0x4NYB70Y"
+  },
+  {
+    "Title": "Six of Cups",
+    "Description": "Kỷ niệm, quá khứ, sự hài hòa, sự ấm áp.",
+    "Image": "c06.jpg",
+    "youtube_id": "snMtNyg53Ic"
+  },
+  {
+    "Title": "Seven of Cups",
+    "Description": "Sự phân vân, lựa chọn, ảo tưởng, quá nhiều lựa chọn.",
+    "Image": "c07.jpg",
+    "youtube_id": "x1tCRKU2pmA"
+  },
+  {
+    "Title": "Eight of Cups",
+    "Description": "Rời bỏ, tìm kiếm ý nghĩa mới, sự từ bỏ.",
+    "Image": "c08.jpg",
+    "youtube_id": "yfJxueF8Z60"
+  },
+  {
+    "Title": "Nine of Cups",
+    "Description": "Hạnh phúc, sự hài lòng, đạt được mong muốn.",
+    "Image": "c09.jpg",
+    "youtube_id": "ujOs02oGxjc"
+  },
+  {
+    "Title": "Ten of Cups",
+    "Description": "Hạnh phúc lâu dài, gia đình, sự viên mãn trong tình cảm.",
+    "Image": "c10.jpg",
+    "youtube_id": "VxJb6a-aRi0"
+  },
+  {
+    "Title": "Page of Cups",
+    "Description": "Sự sáng tạo, cảm xúc, bắt đầu mới trong mối quan hệ.",
+    "Image": "c11.jpg",
+    "youtube_id": "JFoK-SmmX0U"
+  },
+  {
+    "Title": "Knight of Cups",
+    "Description": "Lãng mạn, hành động theo cảm xúc, sự phiêu lưu tình cảm.",
+    "Image": "c12.jpg",
+    "youtube_id": "JTHP6KV7QcU"
+  },
+  {
+    "Title": "Queen of Cups",
+    "Description": "Cảm thông, trực giác, sự chăm sóc, sự nuôi dưỡng.",
+    "Image": "c13.jpg",
+    "youtube_id": "xUGsjUbrERM"
+  },
+  {
+    "Title": "King of Cups",
+    "Description": "Kiểm soát cảm xúc, lãnh đạo bằng tình cảm, sự thấu hiểu.",
+    "Image": "c14.jpg",
+    "youtube_id": "3xnuvDcUET8"
+  },
+  {
+    "Title": "Ace of Swords",
+    "Description": "Ý tưởng mới, sự rõ ràng, quyết định quan trọng.",
+    "Image": "s01.jpg",
+    "youtube_id": "oT6glvZT_PY"
+  },
+  {
+    "Title": "Two of Swords",
+    "Description": "Quyết định khó khăn, mâu thuẫn, cân nhắc giữa hai lựa chọn.",
+    "Image": "s02.jpg",
+    "youtube_id": "TFmAp80RClk"
+  },
+  {
+    "Title": "Three of Swords",
+    "Description": "Đau khổ, sự chia ly, thất vọng, sự mất mát.",
+    "Image": "s03.jpg",
+    "youtube_id": "pAT7fcO99E0"
+  },
+  {
+    "Title": "Four of Swords",
+    "Description": "Nghỉ ngơi, sự hồi phục, tĩnh lặng, sự thư giãn.",
+    "Image": "s04.jpg",
+    "youtube_id": "tgFLRQ1co1Y"
+  },
+  {
+    "Title": "Five of Swords",
+    "Description": "Thất bại, xung đột, thắng lợi qua sự tranh cãi.",
+    "Image": "s05.jpg",
+    "youtube_id": "VioEdYQpMb0"
+  },
+  {
+    "Title": "Six of Swords",
+    "Description": "Di chuyển, sự thay đổi, rời bỏ khó khăn, tìm kiếm sự bình an.",
+    "Image": "s06.jpg",
+    "youtube_id": "SBQj5ZtV6cE"
+  },
+  {
+    "Title": "Seven of Swords",
+    "Description": "Lừa dối, sự không trung thực, hành động lén lút.",
+    "Image": "s07.jpg",
+    "youtube_id": "-ueJVMuD92A"
+  },
+  {
+    "Title": "Eight of Swords",
+    "Description": "Giam cầm, cảm giác bị mắc kẹt, thiếu tự do.",
+    "Image": "s08.jpg",
+    "youtube_id": "MYGZrZlr6wQ"
+  },
+  {
+    "Title": "Nine of Swords",
+    "Description": "Lo âu, căng thẳng, ám ảnh, đêm dài không ngủ.",
+    "Image": "s09.jpg",
+    "youtube_id": "2VoWwj5eKWw"
+  },
+  {
+    "Title": "Ten of Swords",
+    "Description": "Kết thúc đau đớn, sự phản bội, đau khổ tột cùng.",
+    "Image": "s10.jpg",
+    "youtube_id": "ARriY2mBge4"
+  },
+  {
+    "Title": "Page of Swords",
+    "Description": "Quan sát, khám phá, thông tin mới, sự tò mò.",
+    "Image": "s11.jpg",
+    "youtube_id": "NvJiuQhKOfI"
+  },
+  {
+    "Title": "Knight of Swords",
+    "Description": "Quyết đoán, hành động nhanh chóng, xung đột, sự không kiên nhẫn.",
+    "Image": "s12.jpg",
+    "youtube_id": "uanD7qBo3no"
+  },
+  {
+    "Title": "Queen of Swords",
+    "Description": "Lý trí, sáng suốt, độc lập, tách biệt cảm xúc khỏi quyết định.",
+    "Image": "s13.jpg",
+    "youtube_id": "s8xd-p2QGU8"
+  },
+  {
+    "Title": "King of Swords",
+    "Description": "Lãnh đạo thông minh, quyết đoán, sử dụng lý trí, công lý.",
+    "Image": "s14.jpg",
+    "youtube_id": "Vay4836CiH4"
+  },
+  {
+    "Title": "Ace of Pentacles",
+    "Description": "Cơ hội tài chính, khởi đầu về vật chất, sự thịnh vượng.",
+    "Image": "p01.jpg",
+    "youtube_id": "8C-hq2EBG74"
+  },
+  {
+    "Title": "Two of Pentacles",
+    "Description": "Cân bằng, quản lý công việc, thích ứng với thay đổi.",
+    "Image": "p02.jpg",
+    "youtube_id": "fxSR7KNXyhY"
+  },
+  {
+    "Title": "Three of Pentacles",
+    "Description": "Hợp tác, làm việc nhóm, sự phát triển nghề nghiệp.",
+    "Image": "p03.jpg",
+    "youtube_id": "m6p_bumzThg"
+  },
+  {
+    "Title": "Four of Pentacles",
+    "Description": "Bảo vệ tài sản, kiểm soát, sự tham lam, giữ gìn.",
+    "Image": "p04.jpg",
+    "youtube_id": "izcUeTcCLVc"
+  },
+  {
+    "Title": "Five of Pentacles",
+    "Description": "Thiếu thốn, khó khăn tài chính, cô đơn, thiếu sự hỗ trợ.",
+    "Image": "p05.jpg",
+    "youtube_id": "ry95AXsCGgY"
+  },
+  {
+    "Title": "Six of Pentacles",
+    "Description": "Hỗ trợ tài chính, sự cho đi, sự công bằng, giúp đỡ.",
+    "Image": "p06.jpg",
+    "youtube_id": "DohuTUjX_q0"
+  },
+  {
+    "Title": "Seven of Pentacles",
+    "Description": "Đánh giá, kiên nhẫn, đầu tư dài hạn, thu hoạch sau sự chờ đợi.",
+    "Image": "p07.jpg",
+    "youtube_id": "284RflAUQ80"
+  },
+  {
+    "Title": "Eight of Pentacles",
+    "Description": "Làm việc chăm chỉ, học hỏi, rèn luyện kỹ năng.",
+    "Image": "p08.jpg",
+    "youtube_id": "LBhH8OAgpfw"
+  },
+  {
+    "Title": "Nine of Pentacles",
+    "Description": "Tự lập, thành công cá nhân, sự thịnh vượng, sự độc lập.",
+    "Image": "p09.jpg",
+    "youtube_id": "OYzwFG5IV8k"
+  },
+  {
+    "Title": "Ten of Pentacles",
+    "Description": "Thành tựu lâu dài, gia đình, di sản, sự ổn định tài chính.",
+    "Image": "p10.jpg",
+    "youtube_id": "yXntvt1mmxM"
+  },
+  {
+    "Title": "Page of Pentacles",
+    "Description": "Cơ hội học hỏi, sự bắt đầu công việc, tài chính mới mẻ.",
+    "Image": "p11.jpg",
+    "youtube_id": "7MNZu5Md3cQ"
+  },
+  {
+    "Title": "Knight of Pentacles",
+    "Description": "Chăm chỉ, thực tế, ổn định, kiên nhẫn trong công việc.",
+    "Image": "p12.jpg",
+    "youtube_id": "5wCrO_5MHM4"
+  },
+  {
+    "Title": "Queen of Pentacles",
+    "Description": "Quản lý tài chính, chăm sóc gia đình, sự ổn định vật chất.",
+    "Image": "p13.jpg",
+    "youtube_id": "nMncSmk_y3w"
+  },
+  {
+    "Title": "King of Pentacles",
+    "Description": "Sự thành đạt, kiểm soát tài chính, lãnh đạo về vật chất.",
+    "Image": "p14.jpg",
+    "youtube_id": "64y-5q1d-28"
+  }
 ]
